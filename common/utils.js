@@ -28,6 +28,17 @@ utils.flaggedSamples = [
   800, 640, 5627, 5628, 5629, 5712,
 ];
 
+utils.classes = [
+  "car",
+  "fish",
+  "house",
+  "tree",
+  "bicycle",
+  "guitar",
+  "pencil",
+  "clock",
+];
+
 utils.styles = {
   car: { color: "gray", text: "🚗" },
   fish: { color: "red", text: "🐠" },
